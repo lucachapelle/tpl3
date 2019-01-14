@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Diagramme Train" version="4">
+  <OBJECT>
+    <ID name="Diagramme Train" mc="Standard.ClassDiagram" uid="9448cba6-f7a3-4108-9629-c4325ac83e89"/>
+    <PID name="tp1_coo" mc="Standard.Package" uid="0112555f-d2d9-47f2-ad8c-d000382abe2b"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">180</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Diagramme Train]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Train" mc="Standard.Class" uid="974b7fb3-aaa3-4a3a-ad70-3c3953db0b4b"/>
+        <ID name="Voiture" mc="Standard.Class" uid="57c08aa0-2b32-4528-8d36-c8d588f2efb3"/>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="d2a9a199-33d2-44fb-bcd9-813ec33d0cba"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="voiture" mc="Standard.AssociationEnd" uid="3bd19da3-0dd4-4cb8-ba3e-618a74b63ede"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="suivant" mc="Standard.AssociationEnd" uid="4d55b4e1-b4e5-469f-a596-fe4bae98b7b2"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="precedent" mc="Standard.AssociationEnd" uid="8a41e808-8e6d-4f3c-b72a-cc0a4ff948c1"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Type de voitures" mc="Standard.Enumeration" uid="c5c8dd86-3db0-4c15-ae3b-2b7a14bc16f4"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="locomotive" mc="Standard.EnumerationLiteral" uid="ebb5d32f-61ce-4a33-ab8e-ecbe38e24803"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="wagon" mc="Standard.EnumerationLiteral" uid="e300932d-828f-4643-9bc2-e18fa31e6f91"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="voiture de voyageurs" mc="Standard.EnumerationLiteral" uid="f3f3603d-296e-4783-ba7f-f884c988e7c9"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="wagon bar" mc="Standard.EnumerationLiteral" uid="5302f443-8cc2-4dab-8c73-1a56c7637e5e"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="4e3d8216-f77c-48dc-97e1-820688119127"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

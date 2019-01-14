@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TP1_COO" version="4">
+  <OBJECT>
+    <ID name="TP1_COO" mc="Infrastructure.DiagramSet" uid="413a2568-6c1d-4d8d-bf7a-87569228b715"/>
+    <PID name="TP1_COO" mc="Standard.Project" uid="ff3f47c7-db1b-4a06-9ab2-de50e2e91b14"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[TP1_COO]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
