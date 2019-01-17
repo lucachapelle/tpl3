@@ -104,7 +104,7 @@
         </OBJECT>
         <COMPID name="precedent" mc="Standard.AssociationEnd" uid="8a41e808-8e6d-4f3c-b72a-cc0a4ff948c1"/>
         <OBJECT>
-          <ID name="rail" mc="Standard.AssociationEnd" uid="d5d83ba1-6eed-4f59-a77e-1ef91468fc63"/>
+          <ID name="" mc="Standard.AssociationEnd" uid="d5d83ba1-6eed-4f59-a77e-1ef91468fc63"/>
           <ATTRIBUTES>
             <ATT name="Aggregation">KindIsAssociation</ATT>
             <ATT name="IsChangeable">true</ATT>
@@ -117,7 +117,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[rail]]></ATT>
+            <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
@@ -125,9 +125,25 @@
               <ID name="Rails" mc="Standard.Class" uid="2a70debc-3c0a-4e43-8390-2d9a12e1d5be"/>
             </LINK>
             <COMP relation="Opposite">
-              <REFOBJ>
+              <OBJECT>
                 <ID name="" mc="Standard.AssociationEnd" uid="5fa716e6-7cfe-4bb2-abe3-77efb2e456c6"/>
-              </REFOBJ>
+                <ATTRIBUTES>
+                  <ATT name="Aggregation">KindIsAssociation</ATT>
+                  <ATT name="IsChangeable">true</ATT>
+                  <ATT name="Changeable">ReadWrite</ATT>
+                  <ATT name="IsDerived">false</ATT>
+                  <ATT name="IsOrdered">false</ATT>
+                  <ATT name="IsUnique">false</ATT>
+                  <ATT name="MultiplicityMin"><![CDATA[0]]></ATT>
+                  <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+                  <ATT name="Visibility">Public</ATT>
+                  <ATT name="IsClass">false</ATT>
+                  <ATT name="IsAbstract">false</ATT>
+                  <ATT name="Name"></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
             </COMP>
             <COMP relation="Association">
               <OBJECT>
