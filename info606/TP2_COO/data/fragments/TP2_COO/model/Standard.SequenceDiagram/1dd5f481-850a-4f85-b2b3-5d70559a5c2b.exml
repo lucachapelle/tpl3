@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Sequence Détruire Cube" version="4">
+  <OBJECT>
+    <ID name="Sequence Détruire Cube" mc="Standard.SequenceDiagram" uid="1dd5f481-850a-4f85-b2b3-5d70559a5c2b"/>
+    <PID name="Interaction1" mc="Standard.Interaction" uid="a5594728-e352-4bb2-85fb-7173abd59b49"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">41</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Sequence Détruire Cube]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <REFOBJ>
+          <ID name="Paul" mc="Standard.Lifeline" uid="0d134990-2214-485e-a9f4-551e68ad66dc"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="r1" mc="Standard.Lifeline" uid="9381ba94-3af7-4a86-9126-aca83968e9e7"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="C1" mc="Standard.Lifeline" uid="97b09a88-20f2-4f27-8600-01c5e15623c5"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionSpecification" uid="ca801eff-c73c-4bae-952b-425aa0bf9674"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="7b0e6024-199a-4d0f-a633-272440c154fd"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="da388c71-74b3-4bd1-82db-5ba8ff60a796"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.Message" uid="30e6c6a8-3833-4a0b-8f2c-b0c164aa82b0"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="87b78f3e-8392-41c6-9c46-6d6cd6f52c33"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="8128905c-1730-4c94-b8fa-c57958a5716a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.Message" uid="55d68eff-dc8e-404e-af84-70d9280bb5d4"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionSpecification" uid="801a7fa9-a279-4ba7-8aaf-1e7e330ef2df"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="7e3cdafd-517a-4c56-b250-8b2b1bb4dd6d"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.Message" uid="64cecabf-1c4c-416c-a558-02966afd9e68"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="296b902c-f8ef-4768-a49b-4e66e551ffdf"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="de68586d-bf2f-4282-8a81-f18ab6bacf16"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="7a03e3a9-4e6e-43b3-872a-cbc3d595c486"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="False" mc="Standard.Message" uid="2f2ad41f-3afe-4d10-8877-c5ef7093e3fa"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="7cc76413-1f37-42c5-a859-063e7988dfe5"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="destroy" mc="Standard.Message" uid="1c0844a4-b729-427e-80fd-357a661a1246"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="a6a5a03d-f28d-447b-becc-c5e77e5bc676"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="93f8d211-cea0-4ef4-b6b0-38bae7e836c9"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

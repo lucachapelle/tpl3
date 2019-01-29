@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TP2_COO" version="4">
+  <OBJECT>
+    <ID name="TP2_COO" mc="Standard.Project" uid="79dc48c4-2ff0-4ba0-9620-3ebfeba46314"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[TP2_COO]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="tp2_coo" mc="Standard.Package" uid="200e5f0b-77bb-4615-9544-a7d3c3c1e0cf"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="TP2_COO" mc="Infrastructure.DiagramSet" uid="1a81a0a3-7064-47a3-9623-71849174f72d"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

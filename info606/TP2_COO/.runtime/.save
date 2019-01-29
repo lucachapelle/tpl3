@@ -1,0 +1,9 @@
+#Mon Jan 28 10:03:18 CET 2019
+org.modelio.diagram.editor.OpenedDiagrams7='Sequence D\u00E9truire Cube' {1dd5f481-850a-4f85-b2b3-5d70559a5c2b} Standard.SequenceDiagram
+org.modelio.diagram.editor.OpenedDiagrams6='D\u00E9truire cube Finale' {47d0322e-2a77-4021-99fa-350bef926f53} Standard.ObjectDiagram
+org.modelio.diagram.editor.OpenedDiagrams5='D\u00E9truire Cube Initiale' {53920730-ba9f-4994-82d9-41f00f12ccf6} Standard.ObjectDiagram
+org.modelio.diagram.editor.OpenedDiagrams4='Sequence diagram Cr\u00E9er Cube' {68fa726e-0e05-4770-8d1d-73fc1a6a71cc} Standard.SequenceDiagram
+org.modelio.diagram.editor.OpenedDiagrams3='Cr\u00E9er Cube Situation Finale' {f03bba40-fa5c-4e65-b851-23627d685122} Standard.ObjectDiagram
+org.modelio.diagram.editor.OpenedDiagrams2='Cr\u00E9er Cube Situation Initiale' {dcb6a187-9f73-44f6-a534-38cef7b33b66} Standard.ObjectDiagram
+org.modelio.diagram.editor.OpenedDiagrams1='Use Case ' {9a8313e6-52d7-4ded-a24d-6f3754cb4820} Standard.UseCaseDiagram
+org.modelio.diagram.editor.OpenedDiagrams0='Diagramm Class Cube' {aa6b4e2b-2710-482c-a105-ba8a4da63cd1} Standard.ClassDiagram
