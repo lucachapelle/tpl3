@@ -73,7 +73,7 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="d40f70cc-1d13-4169-a38d-f4281b337679"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">970</ATT>
+            <ATT name="LineNumber">854</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
@@ -298,7 +298,7 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="0046bef9-ac9a-4350-a5af-5128d333ed45"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">960</ATT>
+            <ATT name="LineNumber">848</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
@@ -353,7 +353,7 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="ad0f181a-e941-451d-afaf-83d670a94af6"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">960</ATT>
+            <ATT name="LineNumber">848</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
@@ -368,7 +368,7 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="2657ab7d-15f2-42da-b489-5e384ae2ad4f"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">697</ATT>
+            <ATT name="LineNumber">647</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
@@ -390,6 +390,11 @@
                       <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="68eb380a-2850-403c-8c38-83d3e10e224d"/>
                     </REFOBJ>
                   </LINK>
+                  <LINK relation="Invoked">
+                    <REFOBJ>
+                      <ID name="setVoisin" mc="Standard.Operation" uid="568ee680-092b-4f2a-9cb6-e9fcafb99b13"/>
+                    </REFOBJ>
+                  </LINK>
                 </DEPENDENCIES>
               </OBJECT>
             </COMP>
@@ -403,7 +408,7 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="68eb380a-2850-403c-8c38-83d3e10e224d"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">697</ATT>
+            <ATT name="LineNumber">647</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
@@ -423,20 +428,20 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="42f83247-e22e-471d-a77c-5008d4d52d3e"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">804</ATT>
+            <ATT name="LineNumber">708</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
             <COMP relation="SentMessage">
               <OBJECT>
-                <ID name="cubevoisin" mc="Standard.Message" uid="e3d50b5e-5ac9-482b-a1d3-4eb112e0d154"/>
+                <ID name="" mc="Standard.Message" uid="e3d50b5e-5ac9-482b-a1d3-4eb112e0d154"/>
                 <ATTRIBUTES>
                   <ATT name="Argument"></ATT>
                   <ATT name="KindOfMessage">CompleteKind</ATT>
                   <ATT name="SortOfMessage">ReturnMessage</ATT>
                   <ATT name="Sequence"><![CDATA[14]]></ATT>
-                  <ATT name="Name"><![CDATA[cubevoisin]]></ATT>
+                  <ATT name="Name"></ATT>
                   <ATT name="status">1970354901745664</ATT>
                 </ATTRIBUTES>
                 <DEPENDENCIES>
@@ -458,7 +463,7 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionSpecification" uid="26901de8-3ec6-4423-8f4e-42b5afd968d6"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">697</ATT>
+            <ATT name="LineNumber">647</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
@@ -478,7 +483,7 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="bc10131b-46ae-4e0b-b5a1-5cccf84a96e8"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">804</ATT>
+            <ATT name="LineNumber">708</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
@@ -493,26 +498,31 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="8ff1f948-484e-48c5-87b7-05ce3ba9a9c5"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">869</ATT>
+            <ATT name="LineNumber">742</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
             <COMP relation="SentMessage">
               <OBJECT>
-                <ID name="table ind = cubevoisin" mc="Standard.Message" uid="2fa065a6-e444-4a01-a34e-4709bda1af71"/>
+                <ID name="" mc="Standard.Message" uid="2fa065a6-e444-4a01-a34e-4709bda1af71"/>
                 <ATTRIBUTES>
-                  <ATT name="Argument"></ATT>
+                  <ATT name="Argument"><![CDATA[Cube1]]></ATT>
                   <ATT name="KindOfMessage">CompleteKind</ATT>
                   <ATT name="SortOfMessage">SyncCall</ATT>
                   <ATT name="Sequence"><![CDATA[15]]></ATT>
-                  <ATT name="Name"><![CDATA[table ind = cubevoisin]]></ATT>
+                  <ATT name="Name"></ATT>
                   <ATT name="status">1970354901745664</ATT>
                 </ATTRIBUTES>
                 <DEPENDENCIES>
                   <LINK relation="ReceiveEvent">
                     <REFOBJ>
                       <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="6df9c486-e1cb-4ff0-8bea-ce7a2bbcca82"/>
+                    </REFOBJ>
+                  </LINK>
+                  <LINK relation="Invoked">
+                    <REFOBJ>
+                      <ID name="AddCube" mc="Standard.Operation" uid="249092dd-e869-4866-89e3-2c498e3b4874"/>
                     </REFOBJ>
                   </LINK>
                 </DEPENDENCIES>
@@ -528,7 +538,7 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="6df9c486-e1cb-4ff0-8bea-ce7a2bbcca82"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">927</ATT>
+            <ATT name="LineNumber">800</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
@@ -603,20 +613,20 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="736e27f4-5853-4849-bd60-0360d725a55b"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">597</ATT>
+            <ATT name="LineNumber">573</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
             <COMP relation="SentMessage">
               <OBJECT>
-                <ID name="" mc="Standard.Message" uid="22396747-92cd-4832-a3cb-412baab809c0"/>
+                <ID name="True" mc="Standard.Message" uid="22396747-92cd-4832-a3cb-412baab809c0"/>
                 <ATTRIBUTES>
                   <ATT name="Argument"></ATT>
                   <ATT name="KindOfMessage">CompleteKind</ATT>
                   <ATT name="SortOfMessage">ReturnMessage</ATT>
                   <ATT name="Sequence"><![CDATA[10]]></ATT>
-                  <ATT name="Name"></ATT>
+                  <ATT name="Name"><![CDATA[True]]></ATT>
                   <ATT name="status">1970354901745664</ATT>
                 </ATTRIBUTES>
                 <DEPENDENCIES>
@@ -658,7 +668,7 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="84fe791c-e0b0-4baf-84e6-98031984e66b"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">597</ATT>
+            <ATT name="LineNumber">573</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
@@ -933,7 +943,7 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="9a4a8309-e00c-4374-acc7-f4b59cf77adb"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">726</ATT>
+            <ATT name="LineNumber">664</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
@@ -955,6 +965,11 @@
                       <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="eefb3e34-3775-4722-aedb-1c64c226ed19"/>
                     </REFOBJ>
                   </LINK>
+                  <LINK relation="Invoked">
+                    <REFOBJ>
+                      <ID name="setVoisin" mc="Standard.Operation" uid="568ee680-092b-4f2a-9cb6-e9fcafb99b13"/>
+                    </REFOBJ>
+                  </LINK>
                 </DEPENDENCIES>
               </OBJECT>
             </COMP>
@@ -968,7 +983,7 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="eefb3e34-3775-4722-aedb-1c64c226ed19"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">726</ATT>
+            <ATT name="LineNumber">664</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
@@ -988,7 +1003,7 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="754ee3f0-8149-4ced-a07b-9d42f85e1e51"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">791</ATT>
+            <ATT name="LineNumber">692</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
@@ -1023,7 +1038,7 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionSpecification" uid="b586509b-47a1-4edd-8e7d-5d10590a3973"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">731</ATT>
+            <ATT name="LineNumber">669</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
@@ -1043,7 +1058,7 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="93c26187-748d-4ced-bf4a-432ea5fb09e9"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">791</ATT>
+            <ATT name="LineNumber">692</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>

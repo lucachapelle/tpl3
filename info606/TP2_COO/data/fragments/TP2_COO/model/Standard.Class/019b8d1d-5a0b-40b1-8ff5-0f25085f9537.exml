@@ -235,9 +235,25 @@
               <ID name="Cube" mc="Standard.Class" uid="c0cd1bdf-eba4-4780-a678-fd4d67595a80"/>
             </LINK>
             <COMP relation="Opposite">
-              <REFOBJ>
+              <OBJECT>
                 <ID name="" mc="Standard.AssociationEnd" uid="ffa6d615-07bf-44bd-931a-13ac61ae9c4e"/>
-              </REFOBJ>
+                <ATTRIBUTES>
+                  <ATT name="Aggregation">KindIsAssociation</ATT>
+                  <ATT name="IsChangeable">true</ATT>
+                  <ATT name="Changeable">ReadWrite</ATT>
+                  <ATT name="IsDerived">false</ATT>
+                  <ATT name="IsOrdered">false</ATT>
+                  <ATT name="IsUnique">false</ATT>
+                  <ATT name="MultiplicityMin"><![CDATA[0]]></ATT>
+                  <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+                  <ATT name="Visibility">Public</ATT>
+                  <ATT name="IsClass">false</ATT>
+                  <ATT name="IsAbstract">false</ATT>
+                  <ATT name="Name"></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
             </COMP>
             <COMP relation="Association">
               <OBJECT>
