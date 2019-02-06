@@ -1,5 +1,5 @@
-#Tue Jan 29 12:56:18 CET 2019
-org.modelio.diagram.editor.OpenedDiagrams3='Interaction4 Sequence diagram' {1c033ed3-c59e-4192-be50-046a5acfbb83} Standard.SequenceDiagram
-org.modelio.diagram.editor.OpenedDiagrams2='Interaction3 Sequence diagram' {fad47d63-eb78-41aa-a2d7-a5ec944218da} Standard.SequenceDiagram
-org.modelio.diagram.editor.OpenedDiagrams1='Sequence D\u00E9truire Cube' {1dd5f481-850a-4f85-b2b3-5d70559a5c2b} Standard.SequenceDiagram
-org.modelio.diagram.editor.OpenedDiagrams0='Interaction2 Sequence diagram' {6299d3fd-4a3d-4feb-8006-ff40bc170aa5} Standard.SequenceDiagram
+#Tue Feb 05 18:18:11 CET 2019
+org.modelio.diagram.editor.OpenedDiagrams3='Prendre cube Sequence diagram' {6299d3fd-4a3d-4feb-8006-ff40bc170aa5} Standard.SequenceDiagram
+org.modelio.diagram.editor.OpenedDiagrams2='Diagramm Class Cube' {aa6b4e2b-2710-482c-a105-ba8a4da63cd1} Standard.ClassDiagram
+org.modelio.diagram.editor.OpenedDiagrams1='Poser sur cube Sequence diagram' {1c033ed3-c59e-4192-be50-046a5acfbb83} Standard.SequenceDiagram
+org.modelio.diagram.editor.OpenedDiagrams0='Poser sur table Sequence diagram' {fad47d63-eb78-41aa-a2d7-a5ec944218da} Standard.SequenceDiagram

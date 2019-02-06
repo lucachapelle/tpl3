@@ -275,13 +275,13 @@
           <DEPENDENCIES>
             <COMP relation="SentMessage">
               <OBJECT>
-                <ID name="recgercge" mc="Standard.Message" uid="366daffc-09de-4aa8-96b8-514bbbfa67a3"/>
+                <ID name="recherche" mc="Standard.Message" uid="366daffc-09de-4aa8-96b8-514bbbfa67a3"/>
                 <ATTRIBUTES>
                   <ATT name="Argument"></ATT>
                   <ATT name="KindOfMessage">CompleteKind</ATT>
                   <ATT name="SortOfMessage">SyncCall</ATT>
                   <ATT name="Sequence"><![CDATA[4]]></ATT>
-                  <ATT name="Name"><![CDATA[recgercge]]></ATT>
+                  <ATT name="Name"><![CDATA[recherche]]></ATT>
                   <ATT name="status">1970354901745664</ATT>
                 </ATTRIBUTES>
                 <DEPENDENCIES>
@@ -698,7 +698,7 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="3791b05e-740a-4c78-8b80-20d4b12bbe2e"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">488</ATT>
+            <ATT name="LineNumber">498</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
@@ -753,7 +753,7 @@
         <OBJECT>
           <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="335e5cf2-f89b-4727-85ab-cf703975ff70"/>
           <ATTRIBUTES>
-            <ATT name="LineNumber">488</ATT>
+            <ATT name="LineNumber">498</ATT>
             <ATT name="Name"></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
@@ -775,13 +775,13 @@
           <DEPENDENCIES>
             <COMP relation="SentMessage">
               <OBJECT>
-                <ID name="set main = nul" mc="Standard.Message" uid="a9016920-9e86-4128-84e6-f71d7122fe61"/>
+                <ID name="set main = vide" mc="Standard.Message" uid="a9016920-9e86-4128-84e6-f71d7122fe61"/>
                 <ATTRIBUTES>
                   <ATT name="Argument"></ATT>
                   <ATT name="KindOfMessage">CompleteKind</ATT>
                   <ATT name="SortOfMessage">SyncCall</ATT>
                   <ATT name="Sequence"><![CDATA[12]]></ATT>
-                  <ATT name="Name"><![CDATA[set main = nul]]></ATT>
+                  <ATT name="Name"><![CDATA[set main = vide]]></ATT>
                   <ATT name="status">1970354901745664</ATT>
                 </ATTRIBUTES>
                 <DEPENDENCIES>
@@ -984,7 +984,7 @@
         </OBJECT>
       </COMP>
       <COMP relation="Product">
-        <COMPID name="Interaction4 Sequence diagram" mc="Standard.SequenceDiagram" uid="1c033ed3-c59e-4192-be50-046a5acfbb83"/>
+        <COMPID name="Poser sur cube Sequence diagram" mc="Standard.SequenceDiagram" uid="1c033ed3-c59e-4192-be50-046a5acfbb83"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
