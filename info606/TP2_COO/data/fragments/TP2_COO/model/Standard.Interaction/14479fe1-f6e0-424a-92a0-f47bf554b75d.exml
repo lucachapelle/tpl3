@@ -672,7 +672,7 @@
               <OBJECT>
                 <ID name="" mc="Standard.Message" uid="53401122-a036-4d6a-992f-02cbab47027f"/>
                 <ATTRIBUTES>
-                  <ATT name="Argument"><![CDATA[Cube1]]></ATT>
+                  <ATT name="Argument"><![CDATA[Cube2]]></ATT>
                   <ATT name="KindOfMessage">CompleteKind</ATT>
                   <ATT name="SortOfMessage">SyncCall</ATT>
                   <ATT name="Sequence"><![CDATA[7]]></ATT>
@@ -802,7 +802,7 @@
               <OBJECT>
                 <ID name="" mc="Standard.Message" uid="218f37f8-c582-4c16-a3df-95be40134e2d"/>
                 <ATTRIBUTES>
-                  <ATT name="Argument"><![CDATA[cube2]]></ATT>
+                  <ATT name="Argument"><![CDATA[cube1]]></ATT>
                   <ATT name="KindOfMessage">CompleteKind</ATT>
                   <ATT name="SortOfMessage">SyncCall</ATT>
                   <ATT name="Sequence"><![CDATA[8]]></ATT>
