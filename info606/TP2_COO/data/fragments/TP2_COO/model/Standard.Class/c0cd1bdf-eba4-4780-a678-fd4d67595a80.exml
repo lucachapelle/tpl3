@@ -277,6 +277,9 @@
         </OBJECT>
         <COMPID name="dessus" mc="Standard.AssociationEnd" uid="09183c48-105e-4dee-8782-c7d8089053b1"/>
       </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaClass" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0258-0000-000000000000"/>
+      </LINK>
     </DEPENDENCIES>
   </OBJECT>
 </EXT>

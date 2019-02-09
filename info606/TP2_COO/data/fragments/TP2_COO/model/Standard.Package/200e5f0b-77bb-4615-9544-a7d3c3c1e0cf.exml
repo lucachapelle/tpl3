@@ -2568,6 +2568,9 @@
                 <DEPENDENCIES></DEPENDENCIES>
               </OBJECT>
             </COMP>
+            <LINK relation="Extension">
+              <FOREIGNID name="JavaEnumeration" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0262-0000-000000000000"/>
+            </LINK>
           </DEPENDENCIES>
         </OBJECT>
         <COMPID name="Monde" mc="Standard.Class" uid="11b1758e-3182-4e0c-9895-d91d7c279f02"/>
@@ -2579,6 +2582,9 @@
         <COMPID name="Poser Sur Table" mc="Standard.UseCase" uid="b6e79b9e-cc98-4055-991d-b8060d978a9a"/>
         <COMPID name="Poser Sur Cube" mc="Standard.UseCase" uid="f737b04d-3a99-40f0-8c94-6d20cd3cf92c"/>
       </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
       <COMP relation="Product">
         <COMPID name="Diagramm Class Cube" mc="Standard.ClassDiagram" uid="aa6b4e2b-2710-482c-a105-ba8a4da63cd1"/>
         <COMPID name="Use Case " mc="Standard.UseCaseDiagram" uid="9a8313e6-52d7-4ded-a24d-6f3754cb4820"/>
