@@ -51,9 +51,13 @@ public class Monde {
 			break;
 		
 		case '3':
-			System.out.println("Le cube va etre poser sur la table ");
-			Keyboard.pause();
-			D2R2.PoserSurTable();
+			if (D2R2.MainVide()) {
+				System.out.println("Le robot ne tient pas de cube");
+			}else{
+				System.out.println("Le cube va etre poser sur la table ");
+				Keyboard.pause();
+				D2R2.PoserSurTable();
+			}
 			break;
 			
 		case '4':
@@ -79,6 +83,21 @@ public class Monde {
 					System.out.println("erreur");
 
 				}
+			}
+			break;
+			
+		case '5':
+			if (!D2R2.MainVide()) {
+				System.out.println("Le robot tient un cube");
+			}else{
+				System.out.print("Couleur du cube : ");
+				coul = Couleur.getCouleur(Keyboard.getString());
+//				ecrire (coul, "couleur saisie");
+				System.out.print("Taille (grand/moyen/petit) : ");
+				tc = Taille.getTaille(Keyboard.getString());
+				System.out.println("Le cube "+"" + "va etre recherché ");
+				Keyboard.pause();
+				D2R2.PrendreCube(tc, coul);;
 			}
 			break;
 		}

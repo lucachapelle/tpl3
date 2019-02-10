@@ -10,7 +10,28 @@ public class Table {
 		this.CubeSurTable.add(Cube);
 	}
 
-	public void SéléctionnerCube(final Taille Taille, final String Couleur) {
+	public Cube SéléctionnerCube(final Taille Taille, final Couleur Couleur) {
+		ListIterator<Cube> it = CubeSurTable.listIterator();
+		Cube cube = null;
+		boolean trouve = false;
+		while (!trouve  && it.hasNext()) {
+			cube = it.next();
+			trouve = cube.getTaille() == Taille && cube.getCouleur() == Couleur;
+		}
+		if (trouve) {
+			if (cube.getDessus() != null) {
+				it.set(cube.getDessous());;
+				cube.getDessous().setDessus(null);
+				cube.setDessous(null);
+				return cube;
+			}else{
+				it.remove();
+				return cube;
+			}
+		}else {
+			return null;
+
+		}
 	}
 
 	public int RechercheCube(final Taille Taille, final Couleur couleur, Cube c) {

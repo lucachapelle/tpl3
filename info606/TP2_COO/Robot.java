@@ -49,6 +49,7 @@ public class Robot {
     }
 
     public void PrendreCube(final Taille Taille, final Couleur Couleur) {
+    	this.cubeTenu = this.Support.SéléctionnerCube(Taille, Couleur);
     }
 
     public int PoserSurCube(final Taille Taille, final Couleur Couleur) {
